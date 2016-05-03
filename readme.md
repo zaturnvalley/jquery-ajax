@@ -1,12 +1,8 @@
 #Practicing AJAX
 
-## Introduction
-
 You're about to write AJAX-backed JavaScript that will access an API and loop through/display data using `setInterval`.
 
 Make use of the fantastic and delicious https://api.doughnuts.ga.  Your task is to use your JS skills to fetch all the doughnuts in our database. Then, loop through the array and display each doughnut for one second.
-
-## Exercise
 
 #### Requirements
 
@@ -17,6 +13,14 @@ Make use of the fantastic and delicious https://api.doughnuts.ga.  Your task is 
 #### Deliverable
 
 Make a list of existing doughnuts appear on the page, along with the flavor of each doughnut.
+
+##Getting Started
+
+* Fork and clone this repository
+* Run `npm install` to install dependencies
+  * `npm start` - start the BrowserSync server
+  * `npm run lint:css` - lint CSS
+  * `npm run lint:js` - lint JS
 
 ## Additional Resources
 
