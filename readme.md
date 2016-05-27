@@ -1,4 +1,4 @@
-#Practicing AJAX
+#Not-So-Forbidden AJAX Doughnuts
 
 You're about to write AJAX-backed JavaScript that will access an API and loop through/display data using `setInterval`.
 
@@ -15,8 +15,7 @@ Make use of the fantastic and delicious https://api.doughnuts.ga.  Your task is 
 #### Requirements
 
 * Implement a jQuery AJAX request to the GA Doughnuts API. Make sure that the data can be printed to the Chrome console before continuing.
-* Once the data has been received from the API, store the data into an array.
-* Use `setInterval` to go through the array and display each doughnut to the screen, along with the flavor.
+* Once the data has been received from the API, use `setInterval` to go through the array and display each doughnut to the screen, along with the flavor.
 
 #### Deliverable
 
