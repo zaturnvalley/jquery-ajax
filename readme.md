@@ -12,14 +12,19 @@ Make use of the fantastic and delicious https://api.doughnuts.ga.  Your task is 
   * `npm run lint:css` - lint CSS
   * `npm run lint:js` - lint JS
 
-#### Requirements
+## Requirements
 
 * Implement a jQuery AJAX request to the GA Doughnuts API. Make sure that the data can be printed to the Chrome console before continuing.
 * Once the data has been received from the API, use `setInterval` to go through the array and display each doughnut to the screen, along with the flavor.
 
-#### Deliverable
+## Deliverable
 
 Make a list of existing doughnuts appear on the page, along with the flavor of each doughnut.
+
+## Bonuses
+
+* Add a stop button using `clearInterval`
+* Add a resume button
 
 ## Additional Resources
 
