@@ -31,3 +31,9 @@ Make a list of existing doughnuts appear on the page, along with the flavor of e
 * [jQuery AJAX Docs](http://api.jquery.com/jquery.ajax/)
 * [Some useful jQuery DOM Manipulation Docs](http://api.jquery.com/prepend/)
 * [The GA Doughnut API](https://www.doughnuts.ga/)
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
